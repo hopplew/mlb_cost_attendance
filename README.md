@@ -1,6 +1,5 @@
-#Efficiencies in MLB
-
 Summary:
+
 This project is an analysis of Major League Baseball statistics from 2021-2023.
 The statistics used for analysis are team total payroll, wins, and attendance over the 3 year period. The goal is to analyze the data and find the most efficient teams in of cost efficient success.
 The project will make use of Jupyter notebooks to run the python files and for code annotation and explanation.
