@@ -9,7 +9,10 @@ The project will make use of Jupyter notebooks to run the python files and for c
 
 ## Instructions:
 1. Clone the mlb_cost_attendance repo to your machine.
-2. Create and activate a virtual environment and install the packages listed in the requirements.txt file. (instructions for virtual environment below)
+
+2. Create and activate a virtual environment (instructions for virtual environment below) and install the packages listed in the requirements.txt file. 
+
+
 3. Run Jupyter files in order 
     1. a_import_payroll_1st
         - creates team payroll file 
