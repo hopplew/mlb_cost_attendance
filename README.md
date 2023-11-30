@@ -26,16 +26,24 @@ The project will make use of Jupyter notebooks to run the python files and for c
 ## Virtual Environment Instructions
 1. Once repo is cloned, navigate to it's folder in Terminal/GitBash
 2. Create virtual environment on Windows by entering:
+
     Windows (GitBash): python -m venv venv
+
     Linux/Mac (Terminal): python3 -m venv venv
 3. Activate venv by entering:
+
     Windows (GitBash): venv/Scripts/activate
+
     Linux/Mac (Terminal): source venv/bin/activate
 4. Run requirements.txt to install needed libraries:
+
     Windows (GitBash): pip install -r requirements.txt
+
     Linux/Mac (Terminal): pip install -r requirements.txt
 5. When done in venv, deactivate by entering:
+
     Windows (GitBash): deactivate
+
     Linux/Mac (Terminal): deactivate
 
 ## Features:
@@ -46,8 +54,10 @@ The project will make use of Jupyter notebooks to run the python files and for c
 5. Annotate and clean code in Jupyter Notebook.
 
 ## Sources:
-MLB Team Payrolls: https://www.stevetheump.com/Payrolls.htm   
-MLB Team Wins: https://www.baseball-reference.com/leagues/majors/index.shtml 
 Attendance: https://www.espn.com/mlb/attendance
+
+MLB Team Payrolls: https://www.stevetheump.com/Payrolls.htm   
+
+MLB Team Wins: https://www.baseball-reference.com/leagues/majors/index.shtml
 
 
